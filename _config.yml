@@ -23,13 +23,13 @@ repository               : "KPeng9510/kunyupeng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. -Ing. Kunyu Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral researcher at KIT"
+  location         : "Germany"
+  employer         : "Karlsruhe Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kunyu.peng@kit.edu" 
 
   # Academic websites
   academia         : # URL
